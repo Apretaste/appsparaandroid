@@ -1,0 +1,17 @@
+<service>
+	<serviceName>appsparaandroid</serviceName>
+	<serviceDescription>Devuelve listado de android apps populares y gratis que no necesitan acceso a la internet para su funcionamiento. Como opcion adicional le permite recibir app activa que solicite</serviceDescription>
+	<creatorEmail>josegonzalez.4664@yahoo.com</creatorEmail>
+	<!--serviceCategory: negocios,ocio,academico,social,comunicaciones,informativo,adulto,otros-->
+	<serviceCategory>otros</serviceCategory>
+	<serviceUsage>
+		<![CDATA[
+			Envie un email a {APRETASTE_EMAIL} y en el asunto escriba appsparaandroid.
+ 			
+ 			Recibira un email con listado de android apps gratis mas populares.
+
+			Si usted click en la app deseada, se le abrira una ventana de email. Haga click en enviar y recibira la app como adjunto en nuevo email. Bajela, instalela y esta lista para su uso.
+		
+		]]>
+	</serviceUsage>
+</service>
